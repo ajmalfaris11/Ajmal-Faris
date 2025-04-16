@@ -75,6 +75,8 @@ h6 {
   z-index: 997;
   overflow-y: auto;
   padding-inline: 5%;
+  justify-content: center;
+  gap: 10%;
 }
 
 #header * {
